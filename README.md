@@ -74,7 +74,7 @@ B站有一位专攻大学物理的 up [黎光旭说物理](https://space.bilibil
 
 [大学物理马文蔚版-东南大学](https://www.bilibili.com/video/BV1kW411P7VY/)
 
-> by [@IcyDesert](https://github.com/IcyDesert)，2025.1
+> by [@Gaster](https://github.com/WDGaster703)，2025.1
 
 --------
 
