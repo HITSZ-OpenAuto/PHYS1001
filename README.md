@@ -139,6 +139,6 @@ B 站有一位专攻马文蔚大学物理的 up [黎光旭说物理](https://spa
   - 24 年 IB 期末考试考了薛定谔方程的推导过程，课上老师讲过，但较少人作为复习内容
 - 需要熟练运用计算器，能够极大提高解题效率，以下是一些参考资料，建议熟练掌握
   - 学长所做的[卡西欧 FX-991CNX 计算器使用指南](https://hoa.moe/blog/how-to-use-fx991cn/)
-  - [科学常数的使用方法](https://www.zhihu.com/question/381394202/answer/1721124149?share_code=1bHwzpQf1ShQQ&utm_psn=1937590249304880811)，包含科学常数的调用方法、名称以及单位
+  - [科学常数的使用方法](https://www.zhihu.com/question/381394202/answer/1721124149)，包含科学常数的调用方法、名称以及单位
 
 > 文 / [psp_dada](https://github.com/pspdada)，2024.7.12
