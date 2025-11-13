@@ -1,0 +1,13 @@
+GroupCourse:
+  Link: ""
+  Desc: "原《大学物理 IA》、《大学物理 IB》合并为《大学物理》，具体课程对照请参考课程介绍中的对照表"
+  Name: "大学物理"
+  Ids: ["大学物理 XA", "大学物理 XB", "大学物理 IA", "大学物理 IB"]
+
+GradeComposition:
+  - Name: 作业
+    Percentage: 30
+  - Name: 期末考试
+    Percentage: 70
+
+CourseHourComposition: []
