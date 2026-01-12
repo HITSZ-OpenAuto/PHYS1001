@@ -21,19 +21,11 @@ notices = """
 [[lecturers]]
 name = "马永辉"
   [[lecturers.reviews]]
-  content = "原《大学物理 IA》《大学物理 IB》授课教师。"
-  [lecturers.reviews.author]
-  name = ""
-  link = ""
-  date = ""
-  [[lecturers.reviews]]
-  content = "授课风格：PPT，偶尔板书。"
-  [lecturers.reviews.author]
-  name = ""
-  link = ""
-  date = ""
-  [[lecturers.reviews]]
-  content = "2023 年期末考试前公布了班上学生的平时成绩，除了个别不交作业的，大多数人都是 29 或 30 分。"
+  content = """
+原《大学物理 IA》《大学物理 IB》授课教师。
+授课风格：PPT，偶尔板书。
+2023 年期末考试前公布了班上学生的平时成绩，除了个别不交作业的，大多数人都是 29 或 30 分。
+"""
   [lecturers.reviews.author]
   name = ""
   link = ""
@@ -42,8 +34,19 @@ name = "马永辉"
 [[lecturers]]
 name = "林国平"
   [[lecturers.reviews]]
+  content = "原《大学物理 IA》《大学物理 IB》授课教师。"
+  [lecturers.reviews.author]
+  name = ""
+  link = ""
+  date = ""
+  [[lecturers.reviews]]
+  content = "用 PPT，几乎不用板书"
+  [lecturers.reviews.author]
+  name = ""
+  link = ""
+  date = ""
+  [[lecturers.reviews]]
   content = """
-原《大学物理 IA》《大学物理 IB》授课教师。
 上课几乎是照着 PPT 念的，而且语调没有太大的起伏，很容易昏昏欲睡。
 PPT 做的很细致，而且乐于回答学生问题（实际上他的水平很高）。鉴于 23 级开始和本部联考，他的消息是最灵通的，他的班级是最早了解本部相关消息的。
 不用听课，直接看他的 PPT 即可。习题课可以听一听，课后有问题直接找他询问即可。
@@ -62,19 +65,11 @@ name = "王永杰"
   link = ""
   date = ""
   [[lecturers.reviews]]
-  content = "用 PPT，很少板书。"
-  [lecturers.reviews.author]
-  name = ""
-  link = ""
-  date = ""
-  [[lecturers.reviews]]
-  content = "2024 秋没有上课考勤过，仅最后两节习题课考勤。"
-  [lecturers.reviews.author]
-  name = ""
-  link = ""
-  date = ""
-  [[lecturers.reviews]]
-  content = "PPT 念得比较细致，解释得其实也很清楚。但是因为语调没有什么变化所以听起来比较容易犯困。"
+  content = """
+用 PPT，很少板书。
+2024 秋没有上课考勤过，仅最后两节习题课考勤。
+PPT 念得比较细致，解释得其实也很清楚。但是因为语调没有什么变化所以听起来比较容易犯困。
+"""
   [lecturers.reviews.author]
   name = ""
   link = ""
@@ -86,13 +81,8 @@ name = "孙华锐"
   content = """
 原《大学物理 II》授课教师。
 老师教学态度严谨、讲课条理清晰，平易近人，风格幽默风趣，疫情上网课期间，下课后老师会继续待在课堂给同学们答疑解惑，平时也会在 QQ 上给同学们解答问题，总之是一位非常认真负责的老师。
+PPT 中的知识点十分简洁凝练，层层深入，而且上面有许多例题辅助知识点的理解和应用，课程以知识点教学及例题讲解为主。
 """
-  [lecturers.reviews.author]
-  name = ""
-  link = ""
-  date = ""
-  [[lecturers.reviews]]
-  content = "PPT 中的知识点十分简洁凝练，层层深入，而且上面有许多例题辅助知识点的理解和应用，课程以知识点教学及例题讲解为主。"
   [lecturers.reviews.author]
   name = ""
   link = ""
