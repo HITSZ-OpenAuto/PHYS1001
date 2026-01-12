@@ -42,31 +42,12 @@ name = "马永辉"
 [[lecturers]]
 name = "林国平"
   [[lecturers.reviews]]
-  content = "原《大学物理 IA》《大学物理 IB》授课教师。"
-  [lecturers.reviews.author]
-  name = ""
-  link = ""
-  date = ""
-  [[lecturers.reviews]]
-  content = "用 PPT，几乎不用板书"
-  [lecturers.reviews.author]
-  name = ""
-  link = ""
-  date = ""
-  [[lecturers.reviews]]
-  content = "上课几乎是照着 PPT 念的，而且语调没有太大的起伏，很容易昏昏欲睡。"
-  [lecturers.reviews.author]
-  name = ""
-  link = ""
-  date = ""
-  [[lecturers.reviews]]
-  content = "PPT 做的很细致，而且乐于回答学生问题（实际上他的水平很高）。鉴于 23 级开始和本部联考，他的消息是最灵通的，他的班级是最早了解本部相关消息的。"
-  [lecturers.reviews.author]
-  name = ""
-  link = ""
-  date = ""
-  [[lecturers.reviews]]
-  content = "不用听课，直接看他的 PPT 即可。习题课可以听一听，课后有问题直接找他询问即可。"
+  content = """
+原《大学物理 IA》《大学物理 IB》授课教师。
+上课几乎是照着 PPT 念的，而且语调没有太大的起伏，很容易昏昏欲睡。
+PPT 做的很细致，而且乐于回答学生问题（实际上他的水平很高）。鉴于 23 级开始和本部联考，他的消息是最灵通的，他的班级是最早了解本部相关消息的。
+不用听课，直接看他的 PPT 即可。习题课可以听一听，课后有问题直接找他询问即可。
+"""
   [lecturers.reviews.author]
   name = ""
   link = ""
