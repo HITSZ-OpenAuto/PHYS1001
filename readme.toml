@@ -127,7 +127,8 @@ B 站有一位专攻马文蔚大学物理的 up [黎光旭说物理](https://spa
 author = [
   { name = "Cecilia", link = "https://github.com/mircecilia", date = "2026-01" },
   { name = "IcyDesert", link = "https://github.com/IcyDesert", date = "2025-01" },
-  { name = "Gaster", link = "https://github.com/WDGaster", date = "2025-01" }]
+  { name = "Gaster", link = "https://github.com/WDGaster", date = "2025-01" },
+]
 
 [[sections]]
 title = "关于考试"
