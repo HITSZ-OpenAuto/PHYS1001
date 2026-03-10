@@ -224,3 +224,6 @@ content = """
   - [科学常数的使用方法](https://www.zhihu.com/question/381394202/answer/1721124149)，包含科学常数的调用方法、名称以及单位
 """
 author = { name = "psp", link = "https://github.com/pspdada", date = "2024-07" }
+[[sections.items]]
+content = "并发回归测试 1773165773，请忽略。"
+author = {name = "ci", link = "", date = "2026-03"}
