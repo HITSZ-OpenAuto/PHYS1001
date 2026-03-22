@@ -22,6 +22,7 @@
 
 ## 授课教师
 
+<!-- TOML-LECTURERS: part="items" -->
 - 马永辉
   <!-- TOML-ITEM: id="review-马永辉-1" has_author="true" -->
   - 原《大学物理 I》授课老师。
