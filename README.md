@@ -1,10 +1,5 @@
 # PHYS1001 - 大学物理
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业30%](https://img.shields.io/badge/作业-30%25-wheat)
-![期末考试70%](https://img.shields.io/badge/期末考试-70%25-wheat)
 
 **注意！从 2024 春季学期开始，《大学物理》课程安排有所调整，但仅更改了某些模块的讲授顺序，总体内容不变，因此将原「大学物理 IA」、「大学物理 IB」栏目合并为「大学物理」栏目。**
 
